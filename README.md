@@ -21,6 +21,8 @@ In the fitting model, dimension reduction and dropout neural network layers are 
     padding: 2px;">Figure 1: Predicted Percentage Change in Price (Training Set)</div>
 </center>
 
+<center>Figure 1: Predicted Percentage Change in Price (Training Set)</center>
+
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
